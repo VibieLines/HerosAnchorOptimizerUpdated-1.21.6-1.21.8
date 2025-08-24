@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "herosanchoroptimizer:block/fake_anchor"
+    }
+  }
+}
